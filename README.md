@@ -68,6 +68,8 @@ TOP-5 определяются по `gain importance` LightGBM.
 
 ## Запуск
 
+Проект тестировался в Google Colab с Python 3.13.15.
+
 Установить зависимости:
 
 ```bash
